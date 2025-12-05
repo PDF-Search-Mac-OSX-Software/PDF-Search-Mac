@@ -4,7 +4,7 @@
 <table>
 <tr>
 <td width="230" align="center" valign="middle">
-<img src="https://static.macupdate.com/products/59372/l/pdf-search-logo.png?v=1659013393" width="200"><br>
+<img src="https://cdn.jim-nielsen.com/ios/512/pdf-search-2023-10-12.png?rf=1024" width="200"><br>
 <a href="https://mac-share-apps.github.io/.github/pdf-search">
 <img src="https://i.postimg.cc/7LTTZgxF/macos-badge-noborder.png" width="180">
 </a><br><br>
